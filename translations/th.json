@@ -1,0 +1,8 @@
+{
+  "screens": {
+    "IndexScreen": {
+      "title": "หน้าแรก",
+      "button": "เปลี่ยนภาษาเป็น %{lang}"
+    }
+  }
+}

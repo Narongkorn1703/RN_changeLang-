@@ -1,0 +1,8 @@
+{
+  "screens": {
+    "IndexScreen": {
+      "title": "HomeScreen",
+      "button": "Translate to %{lang}"
+    }
+  }
+}
